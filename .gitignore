@@ -3,3 +3,4 @@
 downloads/
 downloads*/
 log.txt
+__pycache__/
